@@ -1,4 +1,4 @@
-Hi 👋 My name is Nukaze
+<h1 align="center">Hi 👋 My name is Nukaze</h1>
 =======================
 
 *   🌍  I'm based in Bangkok
