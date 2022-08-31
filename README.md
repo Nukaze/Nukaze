@@ -8,7 +8,6 @@
 
 ### Skills
 <div>
-<!-- <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=true&theme=default&bar_color=22d016&bar_color_cover=true" /> -->
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=217txkwdxtvo6t7ddgwgvpzsi&cover_image=true&theme=default&bar_color=4eb190&bar_color_cover=true"/>
 </div>
 <p align="left">
@@ -24,6 +23,6 @@
 ### Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Nukaze"><img src="https://github-readme-stats.vercel.app/api?username=Nukaze&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="Nukaze's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/Nukaze"><img src="https://github-readme-stats.vercel.app/api?username=Nukaze&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="Nukaze's GitHub stats" /></a> -->
 
 <a href="https://github.com/Nukaze" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nukaze&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
