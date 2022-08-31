@@ -25,8 +25,8 @@
   
 </p>
 
-### Badges
-<b>My GitHub Stats</b>
+<!-- ### Badges -->
+### My GitHub Stats
 
 <!-- <a href="http://www.github.com/Nukaze"><img src="https://github-readme-stats.vercel.app/api?username=Nukaze&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="Nukaze's GitHub stats" /></a> -->
 
