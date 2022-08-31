@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋 My name is Nukaze</h1>
 =======================
-
+<div align="left">
 *   🌍  I'm based in Bangkok Thailand
 *   ✉️  You can contact me at [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
 *   🧠  I'm learning C#, Java
 *   ⚡  I'm a bachelor's degree in the field of Computer Science Student
 *   🔭  I'm interested in Game Developer, Mobile Application and Atificial Intelligence.
-
+</div>
 ### Skills
 <div>
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=217txkwdxtvo6t7ddgwgvpzsi&cover_image=true&theme=default&bar_color=4eb190&bar_color_cover=true"/>
