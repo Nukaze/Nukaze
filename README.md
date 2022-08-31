@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋 My name is Nukaze</h1>
 =======================
 <div align="left">
-*   🌍  I'm based in Bangkok Thailand
-*   ✉️  You can contact me at [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
-*   🧠  I'm learning C#, Java
-*   ⚡  I'm a bachelor's degree in the field of Computer Science Student
-*   🔭  I'm interested in Game Developer, Mobile Application and Atificial Intelligence.
+  <p>*   🌍  I'm based in Bangkok Thailand</p>
+<p>*   ✉️  You can contact me at [nukaze4@gmail.com](mailto:nukaze4@gmail.com)</p>
+<p>*   🧠  I'm learning C#, Java</p>
+<p>*   ⚡  I'm a bachelor's degree in the field of Computer Science Student</p>
+<p>*   🔭  I'm interested in Game Developer, Mobile Application and Atificial Intelligence.</p>
 </div>
 ### Skills
 <div>
