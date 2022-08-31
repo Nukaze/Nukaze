@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 My name is Nukaze</h1>
-=======================
 
 *   🌍  I'm based in Bangkok Thailand
 *   ✉️  You can contact me at [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
@@ -19,8 +18,11 @@
                     
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Nukaze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/nukaze_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://www.github.com/Nukaze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="http://www.instagram.com/nukaze_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/anupun-nukaze-khumthong/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 ### Badges
 <b>My GitHub Stats</b>
