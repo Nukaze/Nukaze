@@ -8,7 +8,8 @@
 
 ### Skills
 <div>
-<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=true&theme=default&bar_color=22d016&bar_color_cover=true" />
+<!-- <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=12129734423&cover_image=true&theme=default&bar_color=22d016&bar_color_cover=true" /> -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217txkwdxtvo6t7ddgwgvpzsi&cover_image=true&theme=default&bar_color=4eb190&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
