@@ -4,7 +4,7 @@
 *   🌍  I'm based in Bangkok
 *   ✉️  You can contact me at [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
 *   🧠  I'm learning .NET C#
-*   ⚡  I'm studying for a bachelor's degree in the field of Computer Science, I'm interested in Game Developer and Mobile Application.
+*   ⚡  I'm studying for a bachelor's degree in the field of Computer Science, I'm interested in Game Developer, Mobile Application and Atificial Intelligence.
 
 ### Skills
 <div>
