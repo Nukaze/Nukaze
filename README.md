@@ -4,7 +4,7 @@
 *   ✉️  You can contact me at [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
 *   🧠  I have Python skill and I'm learning C#, Java
 *   ⚡  I'm a bachelor's degree in the field of Computer Science Student
-*   🔭  I'm interested in Game Development, Mobile Application and Atificial Intelligence.
+*   🔭  I'm interested in Game Development, Mobile Application, Atificial Intelligence and Machine Learning.
 
 ### Skills
 <div>
