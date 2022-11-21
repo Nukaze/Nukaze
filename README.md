@@ -2,7 +2,7 @@
 
 *   🌍  I'm based in Bangkok Thailand
 *   ✉️  You can contact me at [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
-*   🧠  I'm have Python skill and I'm learning C#, Java
+*   🧠  I have Python skill and I'm learning C#, Java
 *   ⚡  I'm a bachelor's degree in the field of Computer Science Student
 *   🔭  I'm interested in Game Development, Mobile Application and Atificial Intelligence.
 
