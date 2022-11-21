@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 My name is Nukaze</h1>
+<h1 align="center">Hi 👋 My name is Anupun you can call me Nukaze</h1>
 
 *   🌍  I'm based in Bangkok Thailand
 *   ✉️  You can contact me at [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
