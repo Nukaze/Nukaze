@@ -2,7 +2,7 @@
 
 *   🌍  I'm based in Bangkok Thailand
 *   ✉️  You can contact me at [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
-*   🧠  I have Python, Java skill and I'm learning Dart.
+*   🧠  I have Python, Java skill and I'm learning Flutter.
 *   ⚡  I'm a bachelor's degree in the field of Computer Science Student.
 *   🔭  I'm interested in Game Development, Mobile Application, Atificial Intelligence and Machine Learning.
 
@@ -36,7 +36,7 @@
 
 <!-- ### Badges -->
 ### My GitHub Stats
+<!-- 
+<a href="http://www.github.com/Nukaze"><img src="https://github-readme-stats.vercel.app/api?username=Nukaze&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="Nukaze's GitHub stats" /></a> -->
 
-<!-- <a href="http://www.github.com/Nukaze"><img src="https://github-readme-stats.vercel.app/api?username=Nukaze&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="Nukaze's GitHub stats" /></a> -->
-
-<a href="https://github.com/Nukaze" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nukaze&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/king-glitch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nukaze&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
