@@ -39,4 +39,4 @@
 <!-- 
 <a href="http://www.github.com/Nukaze"><img src="https://github-readme-stats.vercel.app/api?username=Nukaze&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="Nukaze's GitHub stats" /></a> -->
 
-<a align="left"><img src="https://github-readme-stats-nukaze.vercel.app/api/top-langs/?username=Nukaze&count_private=true&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a align="left"><img src="https://github-readme-stats-nukaze.vercel.app/api/top-langs/?username=Nukaze&exclude_repo=spotify-github-profile&langs_count=4&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
