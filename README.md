@@ -4,7 +4,7 @@
 *   ✉️  You can contact me at [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
 *   🧠  I am used to programming in Python and Java. I'm currently learning Flutter.
 *   ⚡  I'm in my 2nd year of my bachelor's degree in the field of Computer Science.
-*   🔭  I'm interested in Game Development, the creation Mobile Applications, Artificial Intelligence and, of course, Machine Learning.
+*   🔭  I'm interested in Game Development, the creation of Mobile Applications, Artificial Intelligence and, of course, Machine Learning.
 
 ### Programming Languages
 <div>
