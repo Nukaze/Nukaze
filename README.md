@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋 My name is Anupun you can call me Nukaze</h1>
 
-*   🌍  I'm based in Bangkok Thailand
+*   🌍  I'm currently living in Bangkok,Thailand
 *   ✉️  You can contact me at [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
-*   🧠  I have Python, Java skill and I'm learning Flutter.
-*   ⚡  I'm a bachelor's degree in the field of Computer Science Student.
-*   🔭  I'm interested in Game Development, Mobile Application, Atificial Intelligence and Machine Learning.
+*   🧠  I am used to programming in Python and Java. I'm currently learning Flutter.
+*   ⚡  I'm in my 2nd year of my bachelor's degree in the field of Computer Science.
+*   🔭  I'm interested in Game Development, the creation Mobile Applications, Artificial Intelligence and, of course, Machine Learning.
 
 ### Programming Languages
 <div>
