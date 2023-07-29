@@ -20,7 +20,7 @@ preserve
 ### Programming Skills
 <div>
 <!-- <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=217txkwdxtvo6t7ddgwgvpzsi&cover_image=true&theme=default&bar_color=4eb190&bar_color_cover=true"/> -->
-  <img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=217txkwdxtvo6t7ddgwgvpzsi&cover_image=true&theme=default&show_offline=false&background_color=181824&interchange=true&bar_color_cover=true"/>
+  <img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=217txkwdxtvo6t7ddgwgvpzsi&cover_image=true&theme=default&show_offline=false&background_color=181824&interchange=true&bar_color_cover=false"/>
 </div>
 
 
