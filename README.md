@@ -59,7 +59,7 @@ preserve
 <!-- ### Badges -->
 ### My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nukaze&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nukaze&layout=donut-vertical&bg_color=181824&text_bold=true&text_color=eeeeee&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 <a href="http://www.github.com/Nukaze"><img src="https://github-readme-stats.vercel.app/api?username=Nukaze&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="Nukaze's GitHub stats" /></a> 
