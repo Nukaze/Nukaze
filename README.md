@@ -5,7 +5,7 @@ preserve
 ![MasterHead](https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yourname-eyes.gif)
 -->
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yourname-eyes.gif" alt="MasterHead" width="600" height="">
+  <img src="https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yourname-eyes.gif?ex=6609240f&is=65f6af0f&hm=340ea5afc6e5e6af0b3bd6fa6e30b119981a2cf30ac1aee1b2c2b26b87094da8&" alt="MasterHead" width="600" height="">
 </p>
 	
 
