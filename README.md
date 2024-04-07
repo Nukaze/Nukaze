@@ -1,11 +1,11 @@
 <!-- 
 preserve
-![MasterHead](https://cdn.discordapp.com/attachments/571583529628991488/1130061708501721210/yourlieinapril_holdcat.gif)
-![MasterHead](https://cdn.discordapp.com/attachments/571583529628991488/1130061638649786438/sakura.gif) 
-![MasterHead](https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yourname-eyes.gif)
+https://cdn.discordapp.com/attachments/571583529628991488/1130061708501721210/yourlieinapril_holdcat.gif?ex=6624d5fa&is=661260fa&hm=6e6c335b5600490f2ef58e35ea28d4af484a6a3d2cb9c8a41cd787ff2fc1c639&
+https://cdn.discordapp.com/attachments/571583529628991488/1130061638649786438/sakura.gif?ex=6624d5ea&is=661260ea&hm=c927f21f4937707a1f0c2253f4fa9eeb63b550c6e4d9103ce6d33fb957139284&
+https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yourname-eyes.gif?ex=6624d38f&is=66125e8f&hm=391d5403be2dd469024f98ac40a5e2f975c96aba6276c7ae098cb43398be4aff&
 -->
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yourname-eyes.gif?ex=6609240f&is=65f6af0f&hm=340ea5afc6e5e6af0b3bd6fa6e30b119981a2cf30ac1aee1b2c2b26b87094da8&" alt="MasterHead" width="600" height="">
+  <img src="https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yourname-eyes.gif?ex=6624d38f&is=66125e8f&hm=391d5403be2dd469024f98ac40a5e2f975c96aba6276c7ae098cb43398be4aff&" alt="Anime Banner" width="600" height="">
 </p>
 	
 
@@ -15,7 +15,8 @@ preserve
 *   ✉️  You can contact me at [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
 *   🧠  I am used to programming in Python, Java, C, and C#. I'm currently learning JavaScript and TypeScript.
 *   ⚡  I'm in my 3rd year of my bachelor's degree in the field of Computer Science.
-*   🔭  I'm interested in Game Development, the creation of Mobile Applications, Artificial Intelligence, Machine Learning and, of course, Deep Learning.
+*   🔭  I'm interested in the creation of Mobile Applications, Artificial Intelligence, Machine Learning and, of course, Deep Learning.
+*   ☄️  Currently I'm working on Sky Warden by [Ultralytics YOLOv8](https://github.com/ultralytics) and Automating Drone Operations with LLMs [PrivateGPT](https://docs.privategpt.dev/overview/welcome/introduction)
 
 ### Programming Langueges
 <div>
@@ -39,12 +40,13 @@ preserve
 	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-### Programming Frameworks
+### Frameworks
 <p align="left">
 	<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 	<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" /></a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJS" /></a>
  	<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+  	
   
                     
 ### Socials
