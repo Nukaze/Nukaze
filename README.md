@@ -63,6 +63,14 @@ https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nukaze&layout=donut-vertical&bg_color=181824&text_bold=true&text_color=eeeeee&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Nukaze/Nukaze/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- 
 <a href="http://www.github.com/Nukaze"><img src="https://github-readme-stats.vercel.app/api?username=Nukaze&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="Nukaze's GitHub stats" /></a> 
 -->
