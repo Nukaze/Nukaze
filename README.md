@@ -12,10 +12,10 @@ https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yo
 <h1 align="center">Hi 👋 My name is Anupun you can call me Nukaze</h1>
 
 *   🌍  I'm currently living in Pathum Thani, Thailand
-*   ✉️  You can contact me at [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
+*   ✉️  You can contact me via [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
 *   🧠  I am used to programming in Python, Java, C, and C#. I'm currently learning JavaScript and TypeScript.
 *   ⚡  I'm in my 3rd year of my bachelor's degree in the field of Computer Science.
-*   🔭  I'm interested in the creation of Mobile Applications, Artificial Intelligence, Machine Learning and, of course, Deep Learning.
+*   🔭  I'm interested in the creation of Artificial Intelligence, Machine Learning and, of course, Deep Learning.
 *   ☄️  Currently I'm working on Sky Warden by [Ultralytics YOLOv8](https://github.com/ultralytics) and Automating Drone Operations with LLMs [PrivateGPT](https://docs.privategpt.dev/overview/welcome/introduction)
 
 ### Programming Languages
@@ -63,9 +63,11 @@ https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yo
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
-  <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="1" />
