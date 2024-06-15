@@ -5,7 +5,7 @@ https://cdn.discordapp.com/attachments/571583529628991488/1130061638649786438/sa
 https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yourname-eyes.gif?ex=6624d38f&is=66125e8f&hm=391d5403be2dd469024f98ac40a5e2f975c96aba6276c7ae098cb43398be4aff&
 -->
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/571583529628991488/1130059110587576320/yourname-eyes.gif?ex=6645c90f&is=6644778f&hm=298c32578892ac38787a2e67afb38f0b25bc5f17a913db840400422d9580b40a&=" alt="Anime Banner" width="600" >
+  <img src="https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yourname-eyes.gif?ex=666ea78f&is=666d560f&hm=bbab9759baf4dfb75fa36593a688e8de691470860b8fe5531703974a787bb8a8&" alt="Anime Banner" width="600" >
 </p>
 	
 
