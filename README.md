@@ -20,7 +20,7 @@ https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yo
 
 ### Programming Languages
 <div>
-  <img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=217txkwdxtvo6t7ddgwgvpzsi&cover_image=true&theme=default&show_offline=false&background_color=181824&interchange=true&bar_color_cover=true"/>
+  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=217txkwdxtvo6t7ddgwgvpzsi&cover_image=true&theme=default&show_offline=false&background_color=181824&interchange=true&bar_color_cover=true"/>
 </div>
 
 <div align="left">
