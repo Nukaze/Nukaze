@@ -131,8 +131,8 @@ https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yo
 <p align="left">
   <a href="https://www.linkedin.com/in/anupun-nukaze-khumthong/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a>
   <img width="1" />
-  <a href="http://www.instagram.com/nukaze_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" /></a>
-  <img width="1" />
+<!--   <a href="http://www.instagram.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" /></a>
+  <img width="1" /> -->
   <a href="https://www.github.com/Nukaze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="36" height="36" /></a>
   <img width="1" />
   
