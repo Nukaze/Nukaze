@@ -129,7 +129,7 @@ https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yo
                     
 ### Socials
 <p align="left">
-  <a href="https://www.linkedin.com/in/anupun-nukaze-khumthong/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a>
+  <a href="https://www.linkedin.com/in/nukaze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a>
   <img width="1" />
 <!--   <a href="http://www.instagram.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" /></a>
   <img width="1" /> -->
