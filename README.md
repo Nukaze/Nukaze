@@ -1,22 +1,19 @@
 <!-- 
 preserve
-https://cdn.discordapp.com/attachments/571583529628991488/1130061708501721210/yourlieinapril_holdcat.gif?ex=6624d5fa&is=661260fa&hm=6e6c335b5600490f2ef58e35ea28d4af484a6a3d2cb9c8a41cd787ff2fc1c639&
-https://cdn.discordapp.com/attachments/571583529628991488/1130061638649786438/sakura.gif?ex=6624d5ea&is=661260ea&hm=c927f21f4937707a1f0c2253f4fa9eeb63b550c6e4d9103ce6d33fb957139284&
-https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yourname-eyes.gif?ex=6624d38f&is=66125e8f&hm=391d5403be2dd469024f98ac40a5e2f975c96aba6276c7ae098cb43398be4aff&
 -->
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/571583529628991488/1130059110587576320/yourname-eyes.gif?ex=666ea78f&is=666d560f&hm=bbab9759baf4dfb75fa36593a688e8de691470860b8fe5531703974a787bb8a8&" alt="Anime Banner" width="600" >
+  <img src="assets/anim/yourname-impress.gif" alt="Anime Banner" width="600" >
 </p>
 	
 
-<h1 align="center">Hi 👋 My name is Anupun you can call me Nukaze</h1>
+<h1 align="center">Hi 👋 You can call me <span style="color: #00a0a0;">Nukaze</span></h1>
 
-*   🌍  I'm currently living in Pathum Thani, Thailand
+*   🌍  I'm currently living in `Pathum Thani, Thailand`
 *   ✉️  You can contact me via [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
-*   🧠  I am used to programming in Python, Java, C, and C#. I'm currently learning JavaScript and TypeScript.
-*   ⚡  I'm in my 3rd year of my bachelor's degree in the field of Computer Science.
-*   🔭  I'm interested in the creation of Artificial Intelligence, Machine Learning and, of course, Deep Learning.
-*   ☄️  Currently I'm working on Sky Warden by [Ultralytics YOLOv8](https://github.com/ultralytics) and Automating Drone Operations with LLMs [PrivateGPT](https://docs.privategpt.dev/overview/welcome/introduction)
+*   🧠  I am used to programming in `Python`, `Java`, `C`, and `C#`. I'm currently learning `JavaScript` and `TypeScript`.
+*   ⚡  I'm in my `4th year` of my bachelor's degree in the field of `Computer Science.`
+*   🔭  I'm interested in the creation of `Artificial Intelligence, Machine Learning and, of course, Deep Learning.`
+*   ☄️  Currently I'm working on `Sky Warden` by [Ultralytics YOLOv8](https://github.com/ultralytics) and `Automating Drone Operations` with LLMs [PrivateGPT](https://docs.privategpt.dev/overview/welcome/introduction)
 
 ### Programming Languages
 <div>
