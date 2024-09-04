@@ -8,10 +8,11 @@ preserve
 
 <h1 align="center">Hi 👋 You can call me <span style="color: #00a0a0;">Nukaze</span></h1>
 
-*   🌍  I'm currently living in `Pathum Thani, Thailand`
-*   ✉️  You can contact me via [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
+*   🌱 ___`Looking for a 2025 internship`___
+*   🌏  I'm currently living in `Pathum Thani, Thailand`
+*   📧  You can contact me via [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
 *   🧠  I am used to programming in `Python`, `Java`, `C`, and `C#`. I'm currently learning `JavaScript` and `TypeScript.`
-*   ⚡  I'm in my `4th year` of my bachelor's degree in the field of `Computer Science.`
+*   🎓  I'm in my `4th year` of my bachelor's degree in the field of `Computer Science.`
 *   🔭  I'm interested in the creation of `Artificial Intelligence, Machine Learning and, of course, Deep Learning.`
 *   ☄️  Currently I'm working on `Sky Warden` by [Ultralytics YOLOv8](https://github.com/ultralytics) and `Automating Drone Operations` with LLMs [PrivateGPT](https://docs.privategpt.dev/overview/welcome/introduction)
 
