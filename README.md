@@ -13,7 +13,7 @@ preserve
 *   🧠  I am used to programming in `Python`, `Java`, `C`, `C#`, `JavaScript`, and `TypeScript`. I'm currently learning `BigData` and `Rust`
 *   🎓  I'm in my `4th year` of my bachelor's degree in the field of `Computer Science.`
 *   🔭  I'm interested in the creation of `Artificial Intelligence, Machine Learning and, of course, Deep Learning.`
-*   ☄️ I'm currently an ** at [`AXONS`](https://axonstech.com), working with [`Python`](https://www.python.org/), [`PyTorch`](https://pytorch.org/), [`Ultralytics YOLO`](https://github.com/ultralytics), and other AI/ML technologies in our projects.
+*   ☄️ I'm currently an **`AI/ML Engineer Intern`** at [`AXONS`](https://axonstech.com), working with [`Python`](https://www.python.org/), [`PyTorch`](https://pytorch.org/), [`Ultralytics YOLO`](https://github.com/ultralytics), and other AI/ML technologies in our projects.
 
 ### Programming Languages
 <div>
