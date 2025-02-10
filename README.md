@@ -14,6 +14,8 @@ preserve
 *   🎓  I'm in my `4th year` of my bachelor's degree in the field of `Computer Science.`
 *   🔭  I'm interested in the creation of `Artificial Intelligence, Machine Learning and, of course, Deep Learning.`
 *   ☄️ I'm currently an `AI/ML Engineer Intern` at [`AXONS`](https://axonstech.com), working with [`Python`](https://www.python.org/), [`PyTorch`](https://pytorch.org/), [`Ultralytics YOLO`](https://github.com/ultralytics), and other AI/ML technologies in our projects.
+*   ☄️ I'm currently an **`AI/ML Engineer Intern`** at  <a href="https://axonstech.com" target="_blank" rel="noopener noreferrer">`AXONS`</a>,  working with  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">`Python`</a>,  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">`PyTorch`</a>,  <a href="https://github.com/ultralytics" target="_blank" rel="noopener noreferrer">`Ultralytics YOLO`</a>,  and other AI/ML technologies in our projects.
+
 
 ### Programming Languages
 <div>
