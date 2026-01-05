@@ -39,6 +39,10 @@ preserve
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="1" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/ada/00BFFF" height="40" alt="ada logo"  />
+  <img width="1" /> -->
 </div>
 
 ### Databases
