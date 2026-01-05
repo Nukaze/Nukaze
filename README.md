@@ -10,7 +10,7 @@ preserve
 
 *   🌏  I'm currently living in `Bangkok, Thailand`
 *   📧  You can contact me via [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
-*   🧠  I am used to programming in `Python`, `Java`, `C/C++`, `C#`, `JavaScript`, and `TypeScript`. I'm currently learning `BigData` and `Rust`
+*   🧠  I am used to programming in `Python`, `Java`, `C/C++`, `C#`, `JavaScript`, and `TypeScript`. I'm currently learning `Rust` and `Ada/SPARK`
 *   🎓  I hold a **First Class Honors** bachelor's degree in the field of `Computer Science.`
 *   🔭  I'm passionate about `AI/ML, Deep Learning`, and `defense systems engineering development`
 *   ☄️  I'm currently a **`Software Engineer`** at \*[`Random Defense Company?`](https://www.google.com/search?q=defense+company)\*, working with `C/C++`, `****`, `****`, and other Software & Systems technologies in our team, Former AI/ML Engineer Intern.
