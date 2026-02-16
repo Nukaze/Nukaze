@@ -10,7 +10,7 @@ preserve
 
 *   🌏  I'm currently living in `Bangkok, Thailand`
 *   📧  You can contact me via [nukaze4@gmail.com](mailto:nukaze4@gmail.com)
-*   🧠  I am used to programming in `Python`, `Java`, `C/C++`, `C#`, `JavaScript`, and `TypeScript`. I'm currently learning `Rust` and `Ada/SPARK`
+*   🧠  I am used to programming in `Python`, `Java`, `C/C++`, `C#`, `JavaScript`, and `TypeScript`. I'm currently learning `Go`
 *   🎓  I hold a **First Class Honors** bachelor's degree in the field of `Computer Science.`
 *   🔭  I'm passionate about `AI/ML, Deep Learning`, and `defense systems engineering development`
 *   ☄️  I'm currently a **`Software Engineer`** at \*[`Random Defense Company?`](https://www.google.com/search?q=defense+company)\*, working with `C/C++`, `****`, `****`, and other Software & Systems technologies in our team, Former AI/ML Engineer Intern.
@@ -72,11 +72,15 @@ preserve
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo"  />
+  <img width="1" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nuxt/nuxt-original-wordmark.svg" height="40" alt="nuxt logo"  />
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="1" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="1" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="1" />
@@ -113,6 +117,8 @@ preserve
   <img width="1" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="1" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bun/bun-original.svg" height="40" alt="bun logo"  />
+  <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
@@ -124,6 +130,9 @@ preserve
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
   <img width="1" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="1" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/ngrok/ngrok-original.svg" height="40" alt="ngrok logo"  />
+	
 </div>
 
 </p>
@@ -142,7 +151,8 @@ preserve
 <!-- ### Badges -->
 ### My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nukaze&layout=donut-vertical&bg_color=181824&text_bold=true&text_color=eeeeee&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](
+https://github-readme-stats-git-master-nukazes-projects.vercel.app/api/top-langs/?username=Nukaze&layout=donut-vertical&bg_color=181824&text_bold=true&text_color=eeeeee&title_color=ffffff&langs_count=10&count_private=true&v=6&hide=css,html,swift,blade,c,php)
 
 ###
 
