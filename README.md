@@ -152,7 +152,7 @@ preserve
 ### My GitHub Stats
 
 ![Top Langs](
-https://github-readme-stats-git-master-nukazes-projects.vercel.app/api/top-langs/?username=Nukaze&layout=donut-vertical&bg_color=181824&text_bold=true&text_color=eeeeee&title_color=ffffff&langs_count=10&count_private=true&v=6&hide=css,html,swift,blade,c,php)
+https://github-readme-stats-git-master-nukazes-projects.vercel.app/api/top-langs/?username=Nukaze&layout=donut-vertical&bg_color=181824&text_bold=true&text_color=eeeeee&title_color=ffffff&langs_count=10&count_private=true&v=7&hide=css,html,swift,blade,c,php,dart)
 
 ###
 
