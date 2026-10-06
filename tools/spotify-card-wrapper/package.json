@@ -1,0 +1,9 @@
+{
+  "name": "spotify-card-wrapper",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun --watch server.ts",
+    "start": "bun server.ts"
+  }
+}
