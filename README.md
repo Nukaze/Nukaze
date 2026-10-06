@@ -16,9 +16,10 @@ preserve
 *   ☄️  I'm currently a **`Software Engineer`** at \*[`Random Defense Company?`](https://www.google.com/search?q=defense+company)\*, working with `C/C++`, `****`, `****`, and other Software & Systems technologies in our team, Former AI/ML Engineer Intern.
 *	🤫  \*\* Classified information - you know how it is in defense! \*\*
 ### Programming Languages
-<div>
-  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=217txkwdxtvo6t7ddgwgvpzsi&cover_image=true&theme=default&show_offline=false&background_color=181824&interchange=true&bar_color_cover=true"/>
-</div>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=217txkwdxtvo6t7ddgwgvpzsi&redirect=true">
+	<img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=217txkwdxtvo6t7ddgwgvpzsi&cover_image=true&theme=default&show_offline=false&background_color=333346&interchange=true&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=true" alt="spotify-github-profile" />
+</a>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
