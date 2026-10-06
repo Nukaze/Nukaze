@@ -16,6 +16,14 @@ preserve
 *   ☄️  I'm currently a **`Software Engineer`** at \*[`Random Defense Company?`](https://www.google.com/search?q=defense+company)\*, working with `C/C++`, `****`, `****`, and other Software & Systems technologies in our team, Former AI/ML Engineer Intern.
 *	🤫  \*\* Classified information - you know how it is in defense! \*\*
 ### Programming Languages
+<!--
+  Spotify now-playing widget (kittinan/spotify-github-profile)
+  If the card shows a broken image, the Spotify token was revoked or expired.
+  Fix: re-login at https://spotify-github-profile.kittinanx.com/api/login (same uid, no README change needed).
+  Check: open the img src URL in a browser; a text error such as
+  "Invalid Spotify access_token or refresh_token" means re-login is required.
+  Customize: generator UI shows after login; keep align="right" when pasting new params.
+-->
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=217txkwdxtvo6t7ddgwgvpzsi&redirect=true">
 	<img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=217txkwdxtvo6t7ddgwgvpzsi&cover_image=true&theme=default&show_offline=false&background_color=333346&interchange=true&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=true" alt="spotify-github-profile" />
 </a>
